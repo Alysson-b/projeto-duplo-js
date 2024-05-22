@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto abaixo!
 
-![](./captura%20de%20tela%20.png).
+![](./IMG/captura%20de%20tela%20.png).
 
 ### 🧑‍💻 Creditos aos desenvolvedores!
 
